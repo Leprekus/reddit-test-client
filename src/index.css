@@ -3,6 +3,13 @@
   --background-gray: #1f2427;
   --foreground-gray: rgb(61,67,72);
   background-color: var(--background-gray);
+
+  
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
 }
 body {
   margin: 0;
